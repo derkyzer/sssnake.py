@@ -1,2 +1,2 @@
 # Sssnake
-A simple snake game with adjustable settings.
+A simple snake game made with pygame that has adjustable settings.
